@@ -1,0 +1,6 @@
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\VerifIMC\bin\Debug\VerifIMC.exe.config
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\VerifIMC\bin\Debug\VerifIMC.exe
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\VerifIMC\bin\Debug\VerifIMC.pdb
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\VerifIMC\obj\Debug\VerifIMC.csproj.CoreCompileInputs.cache
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\VerifIMC\obj\Debug\VerifIMC.exe
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\VerifIMC\obj\Debug\VerifIMC.pdb

@@ -1,0 +1,6 @@
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\VeriTriangulo\bin\Debug\VeriTriangulo.exe.config
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\VeriTriangulo\bin\Debug\VeriTriangulo.exe
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\VeriTriangulo\bin\Debug\VeriTriangulo.pdb
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\VeriTriangulo\obj\Debug\VeriTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\VeriTriangulo\obj\Debug\VeriTriangulo.exe
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\VeriTriangulo\obj\Debug\VeriTriangulo.pdb

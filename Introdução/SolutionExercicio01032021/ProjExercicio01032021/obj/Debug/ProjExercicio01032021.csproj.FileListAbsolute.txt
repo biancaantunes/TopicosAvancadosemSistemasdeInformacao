@@ -1,0 +1,7 @@
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\ProjExercicio01032021\obj\Debug\ProjExercicio01032021.csprojAssemblyReference.cache
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\ProjExercicio01032021\obj\Debug\ProjExercicio01032021.csproj.CoreCompileInputs.cache
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\ProjExercicio01032021\bin\Debug\ProjExercicio01032021.exe.config
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\ProjExercicio01032021\bin\Debug\ProjExercicio01032021.exe
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\ProjExercicio01032021\bin\Debug\ProjExercicio01032021.pdb
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\ProjExercicio01032021\obj\Debug\ProjExercicio01032021.exe
+C:\Users\bia_a\source\repos\SolutionExercicio01032021\ProjExercicio01032021\obj\Debug\ProjExercicio01032021.pdb
