@@ -10,19 +10,37 @@ namespace ProjExercicio08032021
     {
         static void Main(string[] args)
         {
-            float altura, pesoideal;
-            string sexo;
+            double altura, pesoideal;
+            string nome, sexo;
 
+            Console.Write("Digite o seu nome: ");
+            nome = Console.ReadLine();
+            
             Console.Write("Digite a sua altura: ");
-            altura = float.Parse(Console.ReadLine());
+            altura = double.Parse(Console.ReadLine());
 
-            Console.Write("Digite o seu sexo (F/M): ");
-            sexo = string.Parse
+            do
+            {
+                Console.Write("Digite o seu sexo (F/M): ");
+                sexo = Console.ReadLine();
+                if (sexo != "m" && sexo != "M" && sexo != "f" && sexo != "F")
+                {
+                    Console.WriteLine("Informação inválida, informe novamente!");
+                }
+            } while (sexo != "m" && sexo != "M" && sexo != "f" && sexo != "F");
+
+            if (sexo == "m" || sexo == "M")
+            {
+                pesoideal = (72.7 * altura) - 58;
+            }
+            else
+            {
+                pesoideal = (62.1 * altura) - 44.7;
+            }
+
+            Console.WriteLine(nome + ", seu peso ideal: " + pesoideal);
+
+            Console.ReadKey();
         }
     }
 }
-
-/*Tendo como dados de entrada o nome, a altura e o sexo (M ou F) de uma pessoa, calcule e
-mostre seu peso ideal, utilizando as seguintes fórmulas:
-- para sexo masculino: peso ideal = (72.7 * altura) - 58
-- para sexo feminino: peso ideal = (62.1 * altura) - 44.7*/
