@@ -1,0 +1,15 @@
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\obj\Debug\ProjWFFerramentas.csprojAssemblyReference.cache
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\obj\Debug\ProjWFFerramentas.Form1.resources
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\obj\Debug\ProjWFFerramentas.Properties.Resources.resources
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\obj\Debug\ProjWFFerramentas.csproj.GenerateResource.cache
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\obj\Debug\ProjWFFerramentas.csproj.CoreCompileInputs.cache
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\bin\Debug\ProjWFFerramentas.exe.config
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\bin\Debug\ProjWFFerramentas.exe
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\bin\Debug\ProjWFFerramentas.pdb
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\bin\Debug\Dal.dll
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\bin\Debug\Model.dll
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\bin\Debug\Dal.pdb
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\bin\Debug\Model.pdb
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\obj\Debug\ProjWFFerramentas.csproj.CopyComplete
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\obj\Debug\ProjWFFerramentas.exe
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Atividade em Sala\SolutionExercicio22032021\ProjWFFerramentas\obj\Debug\ProjWFFerramentas.pdb
