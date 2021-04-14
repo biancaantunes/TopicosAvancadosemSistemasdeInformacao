@@ -1,0 +1,37 @@
+ID: 1
+Descrição: 0
+Tipo: a
+Marca: a
+Preço: a
+
+ID: 2
+Descrição: 0
+Tipo: b
+Marca: b
+Preço: b
+
+ID: 3
+Descrição: 0
+Tipo: c
+Marca: c
+Preço: c
+
+ID: 4
+Descrição: 0
+Tipo: a
+Marca: a
+Preço: a
+
+ID: 5
+Descrição: a
+Tipo: a
+Marca: a
+Preço: a
+
+ID: 6
+Descrição: b
+Tipo: b
+Marca: b
+Preço: b
+
+

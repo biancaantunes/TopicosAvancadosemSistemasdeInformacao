@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjWFFerramentas", "ProjWFFerramentas\ProjWFFerramentas.csproj", "{BBEAEFE5-2432-4B59-8EBF-7291EE60A50A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{897D5314-5E85-461B-BC40-3B2E98443F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{0F1CBF97-B24B-4E1A-984F-E8F449DAB6BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEAEFE5-2432-4B59-8EBF-7291EE60A50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEAEFE5-2432-4B59-8EBF-7291EE60A50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEAEFE5-2432-4B59-8EBF-7291EE60A50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEAEFE5-2432-4B59-8EBF-7291EE60A50A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897D5314-5E85-461B-BC40-3B2E98443F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897D5314-5E85-461B-BC40-3B2E98443F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897D5314-5E85-461B-BC40-3B2E98443F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897D5314-5E85-461B-BC40-3B2E98443F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1CBF97-B24B-4E1A-984F-E8F449DAB6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1CBF97-B24B-4E1A-984F-E8F449DAB6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1CBF97-B24B-4E1A-984F-E8F449DAB6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1CBF97-B24B-4E1A-984F-E8F449DAB6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5D4B8EF-879E-4315-8444-A5F234FEF791}
+	EndGlobalSection
+EndGlobal
