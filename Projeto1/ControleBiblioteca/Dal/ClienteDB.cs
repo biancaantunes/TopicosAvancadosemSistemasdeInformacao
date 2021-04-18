@@ -37,7 +37,7 @@ namespace Dal
                 {
                     Id = int.Parse(returnData["id"].ToString()),
                     Nome = returnData["Nome"].ToString(),
-                    Telefone = returnData["Telefone"].ToString(),
+                    Telefone = returnData["Telefone"].ToString()
                     //Endereco = returnData["Endereco"].ToString(),
                     //Cidade = returnData["Cidade"].ToString(),
                     //Pais = returnData["Pais"].ToString(),

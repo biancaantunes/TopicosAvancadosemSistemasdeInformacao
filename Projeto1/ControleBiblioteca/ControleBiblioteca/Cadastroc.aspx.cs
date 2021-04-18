@@ -31,18 +31,6 @@ namespace ControleBiblioteca
                 else
                     LblMsg.Text = "Erro ao inserir registro";
             }
-            /*else
-            {
-
-                if (db.Update(cliente))
-                {
-                    LblMsg.Text = "Registro atualizado!";
-                }
-                else
-                {
-                    LblMsg.Text = "Erro ao atualizar registro";
-                }
-            }*/
         }
 
         private void LoadGrid()
