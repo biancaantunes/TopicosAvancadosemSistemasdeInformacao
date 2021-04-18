@@ -1,0 +1,6 @@
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Projeto1\ControleBiblioteca\Model\bin\Debug\Model.dll
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Projeto1\ControleBiblioteca\Model\bin\Debug\Model.pdb
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Projeto1\ControleBiblioteca\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Projeto1\ControleBiblioteca\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Projeto1\ControleBiblioteca\Model\obj\Debug\Model.dll
+C:\GitHub\TopicosAvancadosemSistemasdeInformacao\Projeto1\ControleBiblioteca\Model\obj\Debug\Model.pdb
