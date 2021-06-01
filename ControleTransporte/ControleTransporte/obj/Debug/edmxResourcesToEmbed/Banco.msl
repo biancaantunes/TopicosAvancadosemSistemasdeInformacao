@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="transporteurbanoModelStoreContainer" CdmEntityContainer="transporteurbanoEntities">
+    <EntitySetMapping Name="TB_TRANSPORTE">
+      <EntityTypeMapping TypeName="transporteurbanoModel.TB_TRANSPORTE">
+        <MappingFragment StoreEntitySet="TB_TRANSPORTE">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="rua" ColumnName="rua" />
+          <ScalarProperty Name="bairro" ColumnName="bairro" />
+          <ScalarProperty Name="horario" ColumnName="horario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
